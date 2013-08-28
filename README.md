@@ -2,10 +2,10 @@ processing_java_code_for_review
 ===============================
 
 The files are in this folder: SimpleMercatorWorld_NYC_Working
-===============================
+
 
 Download the windows exe or mac app to see how it looks w/out having to install Processing
-===============================
+
 
 Processing GPS 
 
