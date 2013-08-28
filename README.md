@@ -1,4 +1,6 @@
 processing_java_code_for_review
+
+The files are in this folder: SimpleMercatorWorld_NYC_Working
 ===============================
 
 Processing GPS 
