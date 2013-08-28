@@ -8,7 +8,7 @@ Download the windows exe or mac app to see how it looks w/out having to install 
 
 
 Processing GPS 
-
+===============================
 So here's the basic idea; I'm going to create a csv for each study subject with x,y,acc (accelorometer data). 
 Each subject will have a diff. number of rows.
 
